@@ -1,6 +1,6 @@
 # Helmet Detection V8
 
-![Helmet Detection]("C:\Users\yahya\projects\Helmetv8\OIG4.jpeg") <!-- Replace with your own image -->
+![Helmet Detection](https://github.com/NightPrinceY/Helmet-V8/blob/main/OIG4.jpeg) <!-- Replace with your own image -->
 
 ## Table of Contents
 
